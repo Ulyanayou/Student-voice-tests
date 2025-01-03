@@ -37,14 +37,14 @@ user.save()
 ```
 
 3. В этом проекте должен быть создан файл ".env" со следующими переменными.
-
-    URL='...'
-    USERNAME_ADMIN=admin
-    PASSWORD_ADMIN=admin
-    USERNAME_TEACHER=teacher
-    PASSWORD_TEACHER=teacher
-    TEXT_DISCIPLINE='Иностранный язык'
-
+```bash
+URL='...'
+USERNAME_ADMIN=admin
+PASSWORD_ADMIN=admin
+USERNAME_TEACHER=teacher
+PASSWORD_TEACHER=teacher
+TEXT_DISCIPLINE='...'
+```
 4. Активируйте виртуальное окружение, установите связи.
 
 5. Рекомендуемый порядок запуска тестов:
